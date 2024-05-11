@@ -1,1 +1,7 @@
 /venv/
+/WORKSPACE/
+**/*.terraform.lock.hcl
+**/*.tfstate
+**/*.tfstate.backup
+**/.terraform/
+**/*.idea/
