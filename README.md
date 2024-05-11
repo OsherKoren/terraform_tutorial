@@ -16,9 +16,9 @@ terraform apply
 terraform destroy
 ```
 
-terraform init - Initialize a Terraform working directory
-terraform plan - Generate and show an execution plan
-terraform apply - Builds or changes infrastructure
-terraform destroy - Destroy Terraform-managed infrastructure
+**terraform init** - Initialize a Terraform working directory
+**terraform plan** - Generate and show an execution plan
+**terraform apply** - Builds or changes infrastructure
+**terraform destroy** - Destroy Terraform-managed infrastructure
 
 
